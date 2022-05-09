@@ -5,6 +5,5 @@ This project is a visualization analysis of the airline industry in 2017. We wil
 The final product can be seen by downloading the airlines.mp4 file and is available below:
 
 
-
 https://user-images.githubusercontent.com/52011954/167431116-96503622-2328-4c25-9cf8-fea7487d5a01.mp4
 
