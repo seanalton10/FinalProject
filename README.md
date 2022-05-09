@@ -6,3 +6,6 @@ The final product can be seen by downloading the airlines.mp4 file and is availa
 
 https://user-images.githubusercontent.com/52011954/167431116-96503622-2328-4c25-9cf8-fea7487d5a01.mp4
 
+An additional animation without the fixed max has been included to demonstrate another version of a bar chart race.
+
+https://user-images.githubusercontent.com/52011954/167431371-9820890c-abe3-4013-9fe6-7fec0ab2de74.mp4
